@@ -1,8 +1,34 @@
 # Titulo
 
-Esto es un readme para aprender a usar git
+## Practica de github estilos de texto y formatos
 
-> Esto es una cita
+### Realizado el 22/9/2023
 
-** Bold o negrita **
+Esto es un readme para aprender a usar git a continuación utilizaremos formatos de escritura diferente
+
+> Esto es una cita a veces lo usan para hacer comentarios y/o explicaciones, acordarse que aplica sangria
+
+**Esto deberia salir en negrita y mas te vale no dejar espacios al inicio o al final del texto si quieres que se vea en negrita/bold**
+
+*Esta linea deberia salir en cursiva aunque a mi honestamente no me gusta usarla*
+
+~~Ups esto ya no esta actualizado asi que lo voy a tachar~~
+
+**Esto sale en negrita para si quiero puedo _anidarlo_ !**
+
+***Si pongo 3 astericos puedo poner texto en negrita y cursiva a la vez***
+
+Con el Subscript suelen poner las paginas web sus <sub>indices que contienen enlaces</sub>, interesante
+
+El superscript es mas raro de ver en mi <sup>opinión</sup>
+
+Por si acaso tengo dudas me dejo aqui la guia de supervivencia: [https://drive.google.com/file/d/122DP6izAQw4-POZOay2fkd4izSu-IoKh/view]
+
+
+
+
+![Imagen de la entrada del centro del terror] (https://www.paxinasgalegas.es/imagenes/daniel-castelao_img127600t0m0w1600h800.jpg)
+
+
+
 
