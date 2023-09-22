@@ -31,9 +31,6 @@ Por si acaso tengo dudas me dejo aqui la guia de supervivencia: [https://drive.g
 Centro del terror:
 ![Imagen de la entrada del centro del terror](https://www.paxinasgalegas.es/imagenes/daniel-castelao_img127600t0m0w1600h800.jpg)
 
-@github/damiancastelao Por favor se bueno a la hora de puntuar la tarea
-
-
 
 
 Como te sientes necesitando el token para hacer el push en git:
@@ -41,5 +38,12 @@ Como te sientes necesitando el token para hacer el push en git:
 - [ ] Bien
 - [ ] Mal
 - [X] Toca los tokens
+
+**Vamos a probar unos emojis**<sub>[https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md]</sub>
+:smile::smile::smile::wink:
+
+
+@github/damiancastelao Por favor se bueno a la hora de puntuar la tarea 	:innocent:
+
 
 
