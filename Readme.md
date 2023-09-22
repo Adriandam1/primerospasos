@@ -39,11 +39,13 @@ Como te sientes necesitando el token para hacer el push en git:
 - [ ] Mal
 - [X] Toca los tokens
 
-**Vamos a probar unos emojis**<sub>[https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md]</sub>
+**Vamos a probar unos emojis**[^1]
 :smile::smile::smile::wink:
 
 
 @github/damiancastelao Por favor se bueno a la hora de puntuar la tarea 	:innocent:
 
+
+[^1]: Enlace emojis [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md]
 
 
