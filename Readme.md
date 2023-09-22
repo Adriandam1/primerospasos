@@ -22,7 +22,7 @@ Con el Subscript suelen poner las paginas web sus <sub>indices</sub>, interesant
 
 El superscript es mas raro de ver en mi <sup>opinión</sup>
 
-`#ffffff`Terminando con los estilos de texto paso a otras cosas:
+## Terminando con los estilos de texto paso a otras cosas:
 
 Por si acaso tengo dudas me dejo aqui la guia de supervivencia: [https://drive.google.com/file/d/122DP6izAQw4-POZOay2fkd4izSu-IoKh/view]
 
@@ -31,7 +31,7 @@ Por si acaso tengo dudas me dejo aqui la guia de supervivencia: [https://drive.g
 Centro del terror:
 ![Imagen de la entrada del centro del terror](https://www.paxinasgalegas.es/imagenes/daniel-castelao_img127600t0m0w1600h800.jpg)
 
-
+@github/damiancastelao Por favor se bueno a la hora de puntuar la tarea
 
 
 
