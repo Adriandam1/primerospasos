@@ -18,7 +18,7 @@ Esto es un readme para aprender a usar git a continuación utilizaremos formatos
 
 ***Si pongo 3 astericos puedo poner texto en negrita y cursiva a la vez***
 
-Con el Subscript suelen poner las paginas web sus <sub>indices que contienen enlaces</sub>, interesante
+Con el Subscript suelen poner las paginas web sus <sub>indices</sub>, interesante
 
 El superscript es mas raro de ver en mi <sup>opinión</sup>
 
@@ -27,7 +27,7 @@ Por si acaso tengo dudas me dejo aqui la guia de supervivencia: [https://drive.g
 
 
 
-![Imagen de la entrada del centro del terror] (https://www.paxinasgalegas.es/imagenes/daniel-castelao_img127600t0m0w1600h800.jpg)
+![Imagen de la entrada del centro del terror](https://www.paxinasgalegas.es/imagenes/daniel-castelao_img127600t0m0w1600h800.jpg)
 
 
 
