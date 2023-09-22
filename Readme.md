@@ -45,6 +45,8 @@ Como te sientes necesitando el token para hacer el push en git:
 
 @github/damiancastelao Por favor se bueno a la hora de puntuar la tarea 	:innocent:
 
+[!WARNING] ESTO ES UN EJEMPLO DE WARNING! CUIDADO!
+
 
 [^1]: Enlace emojis [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md]
 
