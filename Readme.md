@@ -1,4 +1,4 @@
-# Titulo
+# Titulo Readme con MarkDown
 
 ## Practica de github estilos de texto y formatos
 
@@ -45,7 +45,7 @@ Como te sientes necesitando el token para hacer el push en git:
 
 @github/damiancastelao Por favor se bueno a la hora de puntuar la tarea 	:innocent:
 
-1. Aqui tienes una lista de profes
+1. Aqui tienes una lista anidada de profes
    - damian (con circulito)
      - nina
        - Manuel
